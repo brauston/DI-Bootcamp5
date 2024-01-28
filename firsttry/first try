@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+
+<h1><u>The Brauston Estes inroduction!</u></h1>
+<h3><b>Hey guys</b>, my name is <i>Brauston Estes</i>. I am 18 years old and I was born on february 16, 2005. </h2>
+<h3>I choose to code because it is a booming business and a way to express creativity in a very structured way.</h3>
+<h3>
+  
+    </ol>
+    <ol>
+    my favorite foods are:
+        <li>pizza</li>
+        <li>schnizel</li>
+        <li>shwarma</li>
+    </ol>
+</h3>
+<h3><link rel="stylesheet" href="about.html" target= click here for more about me!!></h3>
+<h3 style="">click down below to follow my instagram</h3>
+<header>
+    <nav>
+    
+             <a href="https://www.instagram.com/braustonestes/" target="_blank"><img src="data:image/png;base64,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" alt="instagram"></a>
+        
+         
+    </nav>
+</header>
+</body>
+</html>
